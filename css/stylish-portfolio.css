@@ -115,11 +115,11 @@ video {
 }
 
 .main{
-	  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/bg-masthead.jpg");
+	  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/bg-masthead.webp");
 }
 
 .portfolio-one{
-	  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/Portfolio1/portfolio-1-masthead.jpg");
+	  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/Portfolio1/portfolio-1-masthead.webp");
 }
 .portfolio-one h1{
 	font-size: 4rem;
@@ -167,7 +167,7 @@ video {
 
 
 .portfolio-two{
-	  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/Portfolio2/Header.jpg");
+	  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/Portfolio2/CompImg/Header.webp");
 }
 .portfolio-two h1{
 	font-size: 4rem;
@@ -176,7 +176,7 @@ video {
 	color: white;
 }
 .portfolio-three{
-	  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/Portfolio3/skypilot.jpg");
+	  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/Portfolio3/CompImg/skypilot.webp");
 }
 .portfolio-three h1{
 	font-size: 4rem;
@@ -185,10 +185,10 @@ video {
 	color: black;
 }
 .portfolio-four{
-	  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/Portfolio4/portfolio-1.jpg");
+	  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/Portfolio4/CompImg/portfolio-1.webp");
 }
 .portfolio-five{
-	  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/Portfolio5/header.jpg");
+	  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/Portfolio5/CompImg/header.webp");
 }
 .portfolio-five h1{
 	font-size: 4rem;
@@ -197,7 +197,7 @@ video {
 	color: white;
 }
 .portfolio-six{
-	  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/Portfolio6/header.jpg");
+	  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/Portfolio6/CompImg/header.webp");
 }
 .portfolio-six h1{
 	font-size: 4rem;
@@ -207,7 +207,7 @@ video {
 }
 
 .portfolio-seven{
-	  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/Portfolio7/Cover.jpg");
+	  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/Portfolio7/CompImg/Cover.webp");
 }
 .portfolio-seven h1{
 	font-size: 4rem;
@@ -216,7 +216,7 @@ video {
 	color: white;
 }
 .portfolio-eight{
-	  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/Portfolio8/Cover.jpg");
+	  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/Portfolio8/CompImg/Cover.webp");
 }
 .portfolio-eight h1{
 	font-size: 4rem;
@@ -225,7 +225,7 @@ video {
 	color: white;
 }
 .portfolio-nine{
-	  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/Portfolio9/Team letterhead.jpg");
+	  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/Portfolio9/CompImg/Team letterhead.webp");
 }
 .portfolio-nine h1{
 	font-size: 4rem;
@@ -235,7 +235,7 @@ video {
 }
 
 .portfolio-ten{
-	  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/Portfolio10/Cylinder_Header.png");
+	  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/Portfolio10/CompImg/Cylinder_Header.webp");
 }
 .portfolio-ten h1{
 	font-size: 4rem;
@@ -246,7 +246,7 @@ video {
 
 
 .portfolio-eleven{
-	  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/Portfolio11/with-wood.jpg");
+	  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/Portfolio11/CompImg/with-wood.webp");
 }
 .portfolio-eleven h1{
 	font-size: 4rem;
@@ -256,7 +256,7 @@ video {
 }
 
 .portfolio-twelve{
-	  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/Portfolio12/EM3_overview.jpg");
+	  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/Portfolio12/CompImg/EM3_overview.webp");
 }
 .portfolio-twelve h1{
 	font-size: 4rem;
@@ -276,7 +276,7 @@ video {
 }
 
 .portfolio-fourteen{
-	  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/Portfolio14/Embed_Cover.jpg");
+	  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/Portfolio14/CompImg/Embed_Cover.webp");
 }
 .portfolio-fourteen h1{
 	font-size: 4rem;
@@ -421,7 +421,7 @@ video {
 
 .callout {
   padding: 15rem 0;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/bg-callout.jpg");
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/bg-callout.webp");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
