@@ -19,7 +19,7 @@ body {
 }
 
 .btn-xll {
-  padding: 3.25rem 10.5rem;
+  padding: 2.25rem 9.5rem;
   border-radius: 30px;
   font-weight: bolder !important;
   font-size: 2rem !important;
@@ -262,7 +262,27 @@ video {
 	font-size: 4rem;
 	margin: 0;
 	padding: 0;
-	color: white;
+	color: black;
+}
+
+.portfolio-thirteen{
+	  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/Portfolio13/Bolt_cover.jpg");
+}
+.portfolio-thirteen h1{
+	font-size: 4rem;
+	margin: 0;
+	padding: 0;
+	color: #ecb807;
+}
+
+.portfolio-fourteen{
+	  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/Portfolio14/Embed_Cover.jpg");
+}
+.portfolio-fourteen h1{
+	font-size: 4rem;
+	margin: 0;
+	padding: 0;
+	color: black;
 }
 
 
