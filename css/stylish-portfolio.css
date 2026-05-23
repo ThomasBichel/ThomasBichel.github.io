@@ -144,7 +144,7 @@ video {
 }
 
 .column img {
-  margin-top: 8px;
+  
   vertical-align: middle;
   width: 100%;
 }
@@ -159,8 +159,8 @@ video {
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
   .column {
-    flex: 100%;
-    max-width: 100%;
+    flex: 70%;
+    max-width: 70%;
   }
 }
 
@@ -266,7 +266,7 @@ video {
 }
 
 .portfolio-thirteen{
-	  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/Portfolio13/Bolt_cover.jpg");
+	  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/Portfolio13/CompImg/ontruck.webp");
 }
 .portfolio-thirteen h1{
 	font-size: 4rem;
@@ -657,4 +657,7 @@ a:hover, a:focus, a:active {
 .outro-box {
   background-color: #566a70 ;
   padding: 10px ;
+  height: 100%;
+  align-content: center;
+  font-size: clamp(0.75rem, 2vw, 1.5rem);
 }
